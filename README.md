@@ -3,7 +3,7 @@
 
 - 👨‍💻 Work in IT industry since 2019
 - ⚡ Work with NodeJS, Express, ReactJS, PostgreSQL
-- 🥷 On my way to become an absolute full-stack JavaScript Engineer
+- 🥷 On my way to become an absolute full-stack JavaScript master
 - 😄 Always happy to learn new technologies and frameworks 
 - 🎡 London, UK
 
