@@ -1,9 +1,10 @@
 # Hi there, I am Max 👋
 ## Junior Full-Stack JavaScript Engineer
 
-- 👨‍💻 I work in IT industry since 2019
-- ⚡ I work with NodeJS, Express, ReactJS, PostgreSQL
-- 😄 I always happy to learn new technologies and frameworks 
+- 👨‍💻 Work in IT industry since 2019
+- ⚡ Work with NodeJS, Express, ReactJS, PostgreSQL
+- 🥷 On my way to become an absolute full-stack JavaScript Engineer
+- 😄 Always happy to learn new technologies and frameworks 
 - 🎡 London, UK
 
 ## More about me
