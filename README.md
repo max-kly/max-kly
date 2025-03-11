@@ -16,3 +16,5 @@ I'm also passionate about UI as well.
 As a professional marketer in past I know how innovative and yet usable and light interfaces are important for success of the product.
 
 🥇 I'm ambitious, collaborative and quick learning person!
+
+Contact me here: wvxkly@gmail.com or connect on [Linkedin](https://www.linkedin.com/in/maxkly/)
